@@ -1,0 +1,8 @@
+"./FSRADC.obj"
+"./csHFXT.obj"
+"./ece230ProjectFinalModule4-1.obj"
+"./outputs.obj"
+"./startup_msp432p4111_ccs.obj"
+"./system_msp432p4111.obj"
+"../msp432p4111.cmd"
+-llibc.a
